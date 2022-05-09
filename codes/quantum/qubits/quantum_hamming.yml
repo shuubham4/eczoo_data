@@ -18,6 +18,9 @@ relations:
   parents:
     - code_id: qubit_stabilizer
       detail: ''
+    
+    - code_id: quantum_reed_muller
+      detail: ''
 
   cousins:
     - code_id: quantum_perfect
